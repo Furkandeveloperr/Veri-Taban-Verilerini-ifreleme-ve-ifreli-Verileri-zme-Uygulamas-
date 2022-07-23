@@ -1,0 +1,10 @@
+C:\Users\furkan fırat\source\repos\ŞİFRELİ_VERİLRRR\ŞİFRELİ_VERİLRRR\obj\Debug\ŞİFRELİ_VERİLRRR.csproj.AssemblyReference.cache
+C:\Users\furkan fırat\source\repos\ŞİFRELİ_VERİLRRR\ŞİFRELİ_VERİLRRR\obj\Debug\ŞİFRELİ_VERİLRRR.Form1.resources
+C:\Users\furkan fırat\source\repos\ŞİFRELİ_VERİLRRR\ŞİFRELİ_VERİLRRR\obj\Debug\ŞİFRELİ_VERİLRRR.Properties.Resources.resources
+C:\Users\furkan fırat\source\repos\ŞİFRELİ_VERİLRRR\ŞİFRELİ_VERİLRRR\obj\Debug\ŞİFRELİ_VERİLRRR.csproj.GenerateResource.cache
+C:\Users\furkan fırat\source\repos\ŞİFRELİ_VERİLRRR\ŞİFRELİ_VERİLRRR\obj\Debug\ŞİFRELİ_VERİLRRR.csproj.CoreCompileInputs.cache
+C:\Users\furkan fırat\source\repos\ŞİFRELİ_VERİLRRR\ŞİFRELİ_VERİLRRR\bin\Debug\ŞİFRELİ_VERİLRRR.exe.config
+C:\Users\furkan fırat\source\repos\ŞİFRELİ_VERİLRRR\ŞİFRELİ_VERİLRRR\bin\Debug\ŞİFRELİ_VERİLRRR.exe
+C:\Users\furkan fırat\source\repos\ŞİFRELİ_VERİLRRR\ŞİFRELİ_VERİLRRR\bin\Debug\ŞİFRELİ_VERİLRRR.pdb
+C:\Users\furkan fırat\source\repos\ŞİFRELİ_VERİLRRR\ŞİFRELİ_VERİLRRR\obj\Debug\ŞİFRELİ_VERİLRRR.exe
+C:\Users\furkan fırat\source\repos\ŞİFRELİ_VERİLRRR\ŞİFRELİ_VERİLRRR\obj\Debug\ŞİFRELİ_VERİLRRR.pdb
