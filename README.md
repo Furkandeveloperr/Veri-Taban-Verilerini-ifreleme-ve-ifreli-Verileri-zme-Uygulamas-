@@ -1,0 +1,1 @@
+# Veri-Taban-Verilerini-ifreleme-ve-ifreli-Verileri-zme-Uygulamas-
